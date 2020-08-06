@@ -1,0 +1,16 @@
+#wrapper {
+    width:100%;
+    margin : 0;
+    }
+    
+    #first-div {
+    width:50%;
+    margin : 0;
+    float : left ;
+    }
+    
+    #second-div {
+    width:50%;
+    margin : 0;
+    float : left ;
+    }
